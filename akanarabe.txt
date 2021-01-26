@@ -338,11 +338,11 @@ dv	する
 fv	から
 sa  とい
 zd	ます
-wd	です
+xd	です
 gs	ひと
 fz	かも
-wg	では
-wa	での
-wz	でも
+xg	では
+xa	での
+xz	でも
 av	なる
 zv	まる
