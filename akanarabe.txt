@@ -334,8 +334,8 @@ z/	・
 ds	して
 da	した
 fs	こと
-dv	する
-fv	から
+dr	する
+fr	から
 sa  とい
 zd	ます
 xd	です
@@ -344,5 +344,5 @@ fz	かも
 xg	では
 xa	での
 xz	でも
-av	なる
-zv	まる
+ar	なる
+zr	まる
