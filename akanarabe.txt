@@ -1,0 +1,348 @@
+ww	っ	w
+ee	っ	e
+rr	っ	r
+tt	っ	t
+ss	っ	s
+dd	っ	d
+ff	っ	f
+zz	っ	z
+xx	っ	x
+cc	っ	c
+vv	っ	v
+
+j	あ
+i	い
+k	う
+o	え
+l	お
+y	や
+h	ゆ
+n	よ
+/	わ
+p	を
+m	ん
+aa	ん
+u	っ
+\	ー
+,	、
+.	。
+
+fj	か
+fi	き
+fk	く
+fo	け
+fl	こ
+fy	きゃ
+fh	きゅ
+fn	きょ
+fg	きゅう
+fb	きょう
+fm	かん
+fu	きん
+f,	くん
+fp	けん
+f\	こん
+
+dj	さ
+di	し
+dk	す
+do	せ
+dl	そ
+dy	しゃ
+dh	しゅ
+dn	しょ
+dg	しゅう
+db	しょう
+dm	さん
+du	しん
+d,	すん
+dp	せん
+d\	そん
+
+wj	しゃ
+wi	し
+wk	しゅ
+wo	しぇ
+wl	しょ
+wy	しゃ
+wh	しゅ
+wn	しょ
+wg	しゅう
+wb	しょう
+wm	しゃん
+wu	しん
+w,	しゅん
+wp	しぇん
+w\	しょん
+
+sj	た
+si	ち
+sk	つ
+so	て
+sl	と
+sy	ちゃ
+sh	ちゅ
+sn	ちょ
+sg	ちゅう
+sb	ちょう
+sm	たん
+su	ちん
+s,	つん
+sp	てん
+s\	とん
+
+aj	な
+ai	に
+ak	ぬ
+ao	ね
+al	の
+ay	にゃ
+ah	にゅ
+an	にょ
+ag	にゅう
+ab	にょう
+am	なん
+au	にん
+a,	ぬん
+ap	ねん
+a\	のん
+
+gj	は
+gi	ひ
+gk	ふ
+go	へ
+gl	ほ
+gy	ひゃ
+gh	ひゅ
+gn	ひょ
+gg	ひゅう
+gb	ひょう
+gm	はん
+gu	ひん
+g,	ふん
+gp	へん
+g\	ほん
+
+zj	ま
+zi	み
+zk	む
+zo	め
+zl	も
+zy	みゃ
+zh	みゅ
+zn	みょ
+zg	みゅう
+zb	みょう
+zm	まん
+zu	みん
+z,	むん
+zp	めん
+z\	もん
+
+rj	ら
+ri	り
+rk	る
+ro	れ
+rl	ろ
+ry	りゃ
+rh	りゅ
+rn	りょ
+rg	りゅう
+rb	りょう
+rm	らん
+ru	りん
+r,	るん
+rp	れん
+r\	ろん
+
+vj	が
+vi	ぎ
+vk	ぐ
+vo	げ
+vl	ご
+vy	ぎゃ
+vh	ぎゅ
+vn	ぎょ
+vg	ぎゅう
+vb	ぎょう
+vm	がん
+vu	ぎん
+v,	ぐん
+vp	げん
+v\	ごん
+
+cj	ざ
+ci	じ
+ck	ず
+co	ぜ
+cl	ぞ
+cy	じゃ
+ch	じゅ
+cn	じょ
+cg	じゅう
+cb	じょう
+cm	ざん
+cu	じん
+c,	ずん
+cp	ぜん
+c\	ぞん
+
+ej	じゃ
+ei	じ
+ek	じゅ
+eo	じぇ
+el	じょ
+ey	じゃ
+eh	じゅ
+en	じょ
+eg	じゅう
+eb	じょう
+em	じゃん
+eu	じん
+e,	じゅん
+ep	じぇん
+e\	じょん
+
+xj	だ
+xi	でぃ
+xk	づ
+xo	で
+xl	ど
+xy	ぢゃ
+xh	ぢゅ
+xn	ぢょ
+xg	ぢゅう
+xb	ぢょう
+xm	だん
+xu	でぃん
+x,	づん
+xp	でん
+x\	どん
+
+bj	ば
+bi	び
+bk	ぶ
+bo	べ
+bl	ぼ
+by	びゃ
+bh	びゅ
+bn	びょ
+bg	びゅう
+bb	びょう
+bm	ばん
+bu	びん
+b,	ぶん
+bp	べん
+b\	ぼん
+
+tj	ぱ
+ti	ぴ
+tk	ぷ
+to	ぺ
+tl	ぽ
+ty	ぴゃ
+th	ぴゅ
+tn	ぴょ
+tg	ぴゅう
+tb	ぴょう
+tm	ぱん
+tu	ぴん
+t,	ぷん
+tp	ぺん
+t\	ぽん
+
+qj	ぁ
+qi	ぃ
+qk	ぅ
+qo	ぇ
+ql	ぉ
+qy	ゃ
+qh	ゅ
+qn	ょ
+qm	あん
+qu	いん
+q,	うん
+qp	えん
+q\	おん
+
+qwi	うぃ
+qwo	うぇ
+qwl	うぉ
+qwu	うぃん
+qwp	うぇん
+qw\	うぉん
+
+qti	てぃ
+qtk	とぅ
+qto	ちぇ
+qtu	てぃん
+qt,	とぅん
+qtp	ちぇん
+qtj	ちゃ
+qti	てぃ
+qtk	とぅ
+qto	ちぇ
+qtl	ちょ
+qty	ちゃ
+qth	ちゅ
+qtn	ちょ
+qtg	ちゅう
+qtb	ちょう
+qtm	ちゃん
+qtu	てぃん
+qt,	とぅん
+qtp	ちぇん
+qt\	ちょん
+
+qdi	でぃ
+qdl	どぅ
+qdk	でゅ
+qdu	ぢん
+qd,	でゅん
+qd\	どぅん
+
+qfj	ふぁ
+qfi	ふぃ
+qfk	ふゅー
+qfo	ふぇ
+qfl	ふぉ
+qfm	ふぁん
+qfu	ふぃん
+qf,	ふん
+qfp	ふぇん
+qf\	ふぉん
+
+qvj	ヴぁ
+qvi	ヴぃ
+qvk	ヴ
+qvo	ヴぇ
+qvl	ヴぉ
+qvm	ヴぁん
+qvu	ヴぃん
+qv,	ヴん
+qvp	ヴぇん
+qv\	ヴぉん
+
+qqi	くぃ
+qqo	くぇ
+qqu	くぃん
+qqp	くぇん
+
+z.	…
+z/	・
+
+ds	して
+da	した
+fs	こと
+dv	する
+fv	から
+sa  とい
+zd	ます
+wd	です
+gs	ひと
+fz	かも
+wg	では
+wa	での
+wz	でも
+av	なる
+zv	まる
