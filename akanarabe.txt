@@ -95,6 +95,23 @@ s,	つん
 s\	てん
 s.	とん
 
+cj	ちゃ
+ci	ち
+ck	ちゅ
+co	ちぇ
+cl	ちょ
+cy	ちゃ
+ch	ちゅ
+cn	ちょ
+ct	ちゃん
+cg	ちゅう
+cb	ちょう
+cm	ちゃん
+cu	ちん
+c,	ちゅん
+c\	ちぇん
+c.	ちょん
+
 aj	な
 ai	に
 ak	ぬ
@@ -197,23 +214,6 @@ e,	ずん
 e\	ぜん
 e.	ぞん
 
-cj	じゃ
-ci	じ
-ck	じゅ
-co	じぇ
-cl	じょ
-cy	じゃ
-ch	じゅ
-cn	じょ
-ct	じゃん
-cg	じゅう
-cb	じょう
-cm	じゃん
-cu	じん
-c,	じゅん
-c\	じぇん
-c.	じょん
-
 wj	だ
 wi	でぃ
 wk	づ
@@ -289,12 +289,6 @@ qwu	うぃん
 qw\	うぇん
 qw.	うぉん
 
-qti	てぃ
-qtk	とぅ
-qto	ちぇ
-qtu	てぃん
-qt,	とぅん
-qt\	ちぇん
 qtj	ちゃ
 qti	てぃ
 qtk	とぅ
@@ -329,6 +323,23 @@ qfu	ふぃん
 qf,	ふん
 qf\	ふぇん
 qf.	ふぉん
+
+qgj	ぢゃ
+qgi	じ
+qgk	じゅ
+qgo	じぇ
+qgl	じょ
+qgy	じゃ
+qgh	じゅ
+qgn	じょ
+qgt	じゃん
+qgg	じゅう
+qgb	じょう
+qgm	じゃん
+qgu	じん
+qg,	じゅん
+qg\	じぇん
+qg.	じょん
 
 qvj	ヴぁ
 qvi	ヴぃ
