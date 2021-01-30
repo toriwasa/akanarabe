@@ -274,6 +274,7 @@ ql	ぉ
 qy	ゃ
 qh	ゅ
 qn	ょ
+q/	ゎ
 qt	やん
 qg	ゆう
 qb	よう
