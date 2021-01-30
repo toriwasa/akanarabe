@@ -371,7 +371,6 @@ zd	ます
 wd	です
 gs	ひと
 fz	かも
-wg	では
 wa	での
 wz	でも
 av	なる
