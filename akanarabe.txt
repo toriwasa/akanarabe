@@ -362,14 +362,14 @@ qq\	くぇん
 z.	…
 z/	・
 
-ds	して
-da	した
-fs	こと
-dv	する
+sd	して
+sa	した
+fd	こと
+sv	する
 fv	から
-zd	ます
-wd	です
-gs	ひと
+zs	ます
+ws	です
+gd	ひと
 fz	かも
 wa	での
 wz	でも
