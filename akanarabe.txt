@@ -368,10 +368,10 @@ fd	こと
 sv	する
 fv	から
 zs	ます
-ws	です
+es	です
 gd	ひと
 fz	かも
-wa	での
-wz	でも
+ea	での
+ez	でも
 av	なる
 zv	まる
