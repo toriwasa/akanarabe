@@ -1,13 +1,17 @@
 ww	っ	w
 ee	っ	e
 rr	っ	r
+tt	っ	t
+aa	っ	a
 ss	っ	s
 dd	っ	d
 ff	っ	f
+gg	っ	g
 zz	っ	z
 xx	っ	x
 cc	っ	c
 vv	っ	v
+bb	っ	b
 
 j	あ
 i	い
@@ -17,16 +21,14 @@ l	お
 y	や
 h	ゆ
 n	よ
-/	わ
-p	を
 \	ん
-aa	ん
 u	っ
 m	ー
 ,	、
 .	。
 -	ー
 |	ー
+/	ー
 
 fj	か
 fi	き
@@ -36,9 +38,6 @@ fl	こ
 fy	きゃ
 fh	きゅ
 fn	きょ
-ft	きゃん
-fg	きゅう
-fb	きょう
 fm	かん
 fu	きん
 f,	くん
@@ -53,31 +52,11 @@ sl	そ
 sy	しゃ
 sh	しゅ
 sn	しょ
-st	しゃん
-sg	しゅう
-sb	しょう
 sm	さん
 su	しん
 s,	すん
 s\	せん
 s.	そん
-
-xj	しゃ
-xi	し
-xk	しゅ
-xo	しぇ
-xl	しょ
-xy	しゃ
-xh	しゅ
-xn	しょ
-xt	しゃん
-xg	しゅう
-xb	しょう
-xm	しゃん
-xu	しん
-x,	しゅん
-x\	しぇん
-x.	しょん
 
 dj	た
 di	ち
@@ -87,31 +66,11 @@ dl	と
 dy	ちゃ
 dh	ちゅ
 dn	ちょ
-dt	ちゃん
-dg	ちゅう
-db	ちょう
 dm	たん
 du	ちん
 d,	つん
 d\	てん
 d.	とん
-
-cj	ちゃ
-ci	ち
-ck	ちゅ
-co	ちぇ
-cl	ちょ
-cy	ちゃ
-ch	ちゅ
-cn	ちょ
-ct	ちゃん
-cg	ちゅう
-cb	ちょう
-cm	ちゃん
-cu	ちん
-c,	ちゅん
-c\	ちぇん
-c.	ちょん
 
 aj	な
 ai	に
@@ -121,9 +80,6 @@ al	の
 ay	にゃ
 ah	にゅ
 an	にょ
-at	にゃん
-ag	にゅう
-ab	にょう
 am	なん
 au	にん
 a,	ぬん
@@ -138,9 +94,6 @@ gl	ほ
 gy	ひゃ
 gh	ひゅ
 gn	ひょ
-gt	ひゃん
-gg	ひゅう
-gb	ひょう
 gm	はん
 gu	ひん
 g,	ふん
@@ -155,9 +108,6 @@ zl	も
 zy	みゃ
 zh	みゅ
 zn	みょ
-zt	みゃん
-zg	みゅう
-zb	みょう
 zm	まん
 zu	みん
 z,	むん
@@ -172,9 +122,6 @@ vl	ろ
 vy	りゃ
 vh	りゅ
 vn	りょ
-vt	りゃん
-vg	りゅう
-vb	りょう
 vm	らん
 vu	りん
 v,	るん
@@ -189,9 +136,6 @@ rl	ご
 ry	ぎゃ
 rh	ぎゅ
 rn	ぎょ
-rt	ぎゃん
-rg	ぎゅう
-rb	ぎょう
 rm	がん
 ru	ぎん
 r,	ぐん
@@ -206,9 +150,6 @@ wl	ぞ
 wy	じゃ
 wh	じゅ
 wn	じょ
-wt	じゃん
-wg	じゅう
-wb	じょう
 wm	ざん
 wu	じん
 w,	ずん
@@ -223,48 +164,48 @@ el	ど
 ey	ぢゃ
 eh	ぢゅ
 en	ぢょ
-et	ぢゃん
-eg	ぢゅう
-eb	ぢょう
 em	だん
 eu	でぃん
 e,	づん
 e\	でん
 e.	どん
 
-tj	ば
-ti	び
-tk	ぶ
-to	べ
-tl	ぼ
-ty	びゃ
-th	びゅ
-tn	びょ
-tt	びゃん
-tg	びゅう
-tb	びょう
-tm	ばん
-tu	びん
-t,	ぶん
-t\	べん
-t.	ぼん
+bj	ば
+bi	び
+bk	ぶ
+bo	べ
+bl	ぼ
+by	びゃ
+bh	びゅ
+bn	びょ
+bm	ばん
+bu	びん
+b,	ぶん
+b\	べん
+b.	ぼん
 
-bj	ぱ
-bi	ぴ
-bk	ぷ
-bo	ぺ
-bl	ぽ
-by	ぴゃ
-bh	ぴゅ
-bn	ぴょ
-bt	ぴゃん
-bg	ぴゅう
-bb	ぴょう
-bm	ぱん
-bu	ぴん
-b,	ぷん
-b\	ぺん
-b.	ぽん
+tj	ぱ
+ti	ぴ
+tk	ぷ
+to	ぺ
+tl	ぽ
+ty	ぴゃ
+th	ぴゅ
+tn	ぴょ
+tm	ぱん
+tu	ぴん
+t,	ぷん
+t\	ぺん
+t.	ぽん
+
+xj	わ
+xi	うぃ
+xo	うぇ
+xl	を
+xm	わん
+xu	うぃん
+x\	うぇん
+x.	うぉん
 
 qj	ぁ
 qi	ぃ
@@ -275,14 +216,16 @@ qy	ゃ
 qh	ゅ
 qn	ょ
 q/	ゎ
-qt	やん
-qg	ゆう
-qb	よう
 qm	あん
 qu	いん
 q,	うん
 q\	えん
 q.	おん
+
+qqi	くぃ
+qqo	くぇ
+qqu	くぃん
+qq\	くぇん
 
 qwi	うぃ
 qwo	うぇ
@@ -291,24 +234,35 @@ qwu	うぃん
 qw\	うぇん
 qw.	うぉん
 
-qtj	ちゃ
+qtj	つぁ
 qti	てぃ
 qtk	とぅ
-qto	ちぇ
-qtl	ちょ
+qto	つぇ
+qtl	つぉ
 qty	ちゃ
 qth	ちゅ
 qtn	ちょ
-qtt	ちゃん
-qtg	ちゅう
-qtb	ちょう
-qtm	ちゃん
+qtm	つぁん
 qtu	てぃん
 qt,	とぅん
-qt\	ちぇん
-qt.	ちょん
+qt\	つぇん
+qt.	つぉん
 
-qdi	でぃ
+qsj	しゃ
+qsi	し
+qsk	しゅ
+qso	しぇ
+qsl	しょ
+qsy	しゃ
+qsh	しゅ
+qsn	しょ
+qsm	しゃん
+qsu	しん
+qs,	しゅん
+qs\	しぇん
+qs.	しょん
+
+qdi	ぢ
 qdl	どぅ
 qdk	でゅ
 qdu	でぃん
@@ -326,7 +280,7 @@ qf,	ふん
 qf\	ふぇん
 qf.	ふぉん
 
-qgj	ぢゃ
+qgj	じゃ
 qgi	じ
 qgk	じゅ
 qgo	じぇ
@@ -334,30 +288,51 @@ qgl	じょ
 qgy	じゃ
 qgh	じゅ
 qgn	じょ
-qgt	じゃん
-qgg	じゅう
-qgb	じょう
 qgm	じゃん
 qgu	じん
 qg,	じゅん
 qg\	じぇん
 qg.	じょん
 
+qxj	しゃ
+qxi	し
+qxk	しゅ
+qxo	しぇ
+qxl	しょ
+qxy	しゃ
+qxh	しゅ
+qxn	しょ
+qxm	しゃん
+qxu	しん
+qx,	しゅん
+qx\	しぇん
+qx.	しょん
+
+qcj	ちゃ
+qci	ち
+qck	ちゅ
+qco	ちぇ
+qcl	ちょ
+qcy	ちゃ
+qch	ちゅ
+qcn	ちょ
+qcm	ちゃん
+qcu	ちん
+qc,	ちゅん
+qc\	ちぇん
+qc.	ちょん
+
 qvj	ヴぁ
 qvi	ヴぃ
 qvk	ヴ
 qvo	ヴぇ
 qvl	ヴぉ
+qvh	びゅー
 qvm	ヴぁん
 qvu	ヴぃん
 qv,	ヴん
 qv\	ヴぇん
 qv.	ヴぉん
-
-qqi	くぃ
-qqo	くぇ
-qqu	くぃん
-qq\	くぇん
 
 z.	…
 z/	・
