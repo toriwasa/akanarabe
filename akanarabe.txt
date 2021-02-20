@@ -161,7 +161,7 @@ w.	ぞー
 
 ej	だ
 ei	でぃ
-ek	どぅ
+ek	づ
 eo	で
 el	ど
 ey	ぢゃ
@@ -169,7 +169,7 @@ eh	でゅ
 en	ぢょ
 em	だー
 eu	でぃー
-e,	どぅー
+e,	どぅ
 e\	でー
 e.	どー
 
@@ -252,12 +252,12 @@ qs\	しぇー
 qs.	しょー
 
 qdi	ぢ
-qdk	づ
+qdk	どぅ
 qdy	ぢゃ
 qdh	ぢゅ
 qdn	ぢょ
 qdu	ぢー
-qd,	づー
+qd,	どぅー
 
 qfj	ふぁ
 qfi	ふぃ
