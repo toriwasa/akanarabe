@@ -40,7 +40,11 @@ fl	こ
 fy	きゃ
 fh	きゅ
 fn	きょ
-f,	くう
+fm	かー
+fu	きー
+f,	くー
+f\	けー
+f.	こー
 
 sj	さ
 si	し
@@ -50,7 +54,11 @@ sl	そ
 sy	しゃ
 sh	しゅ
 sn	しょ
-s,	すう
+sm	さー
+su	しー
+s,	すー
+s\	せー
+s.	そー
 
 dj	た
 di	ち
@@ -60,7 +68,11 @@ dl	と
 dy	ちゃ
 dh	ちゅ
 dn	ちょ
-d,	つう
+dm	たー
+du	ちー
+d,	つー
+d\	てー
+d.	とー
 
 aj	な
 ai	に
@@ -70,7 +82,11 @@ al	の
 ay	にゃ
 ah	にゅ
 an	にょ
-a,	ぬう
+am	なー
+au	にー
+a,	ぬー
+a\	ねー
+a.	のー
 
 gj	は
 gi	ひ
@@ -81,6 +97,11 @@ gy	ひゃ
 gh	ひゅ
 gn	ひょ
 g,	ふう
+gm	はー
+gu	ひー
+g,	ふー
+g\	へー
+g.	ほー
 
 zj	ま
 zi	み
@@ -90,7 +111,11 @@ zl	も
 zy	みゃ
 zh	みゅ
 zn	みょ
-z,	むう
+zm	まー
+zu	みー
+z,	むー
+z\	めー
+z.	もー
 
 vj	ら
 vi	り
@@ -100,7 +125,11 @@ vl	ろ
 vy	りゃ
 vh	りゅ
 vn	りょ
-v,	るう
+vm	らー
+vu	りー
+v,	るー
+v\	れー
+v.	ろー
 
 rj	が
 ri	ぎ
@@ -110,7 +139,11 @@ rl	ご
 ry	ぎゃ
 rh	ぎゅ
 rn	ぎょ
-r,	ぐう
+rm	がー
+ru	ぎー
+r,	ぐー
+r\	げー
+r.	ごー
 
 wj	ざ
 wi	じ
@@ -120,7 +153,11 @@ wl	ぞ
 wy	じゃ
 wh	じゅ
 wn	じょ
-w,	ずう
+wm	ざー
+wu	じー
+w,	ずー
+w\	ぜー
+w.	ぞー
 
 ej	だ
 ei	でぃ
@@ -130,7 +167,11 @@ el	ど
 ey	ぢゃ
 eh	でゅ
 en	ぢょ
-e,	づう
+em	だー
+eu	でぃー
+e,	どぅー
+e\	でー
+e.	どー
 
 bj	ば
 bi	び
@@ -140,7 +181,11 @@ bl	ぼ
 by	びゃ
 bh	びゅ
 bn	びょ
-b,	ぶう
+bm	ばー
+bu	びー
+b,	ぶー
+b\	べー
+b.	ぼー
 
 tj	ぱ
 ti	ぴ
@@ -150,13 +195,20 @@ tl	ぽ
 ty	ぴゃ
 th	ぴゅ
 tn	ぴょ
-t,	ぷう
+tm	ぱー
+tu	ぴー
+t,	ぷー
+t\	ぺー
+t.	ぽー
 
 xj	わ
 xi	うぃ
 xo	うぇ
 xl	を
-xm	わん
+xm	わー
+xu	うぃー
+x\	うぇー
+x.	うぉー
 
 qj	ぁ
 qi	ぃ
@@ -179,7 +231,11 @@ qtl	つぉ
 qty	ちゃ
 qth	ちゅ
 qtn	ちょ
+qtm	つぁー
+qtu	てぃー
 qt,	とぅー
+qt\	つぇー
+qt.	つぉー
 
 qsj	しゃ
 qsi	し
@@ -189,15 +245,19 @@ qsl	しょ
 qsy	しゃ
 qsh	しゅ
 qsn	しょ
+qsm	しゃー
+qsu	しー
 qs,	しゅー
+qs\	しぇー
+qs.	しょー
 
 qdi	ぢ
-qdl	づ
-qdk	ぢゅ
+qdk	づ
 qdy	ぢゃ
 qdh	ぢゅ
 qdn	ぢょ
-qd,	どぅー
+qdu	ぢー
+qd,	づー
 
 qfj	ふぁ
 qfi	ふぃ
@@ -205,6 +265,11 @@ qfk	ふゅー
 qfo	ふぇ
 qfl	ふぉ
 qfh	ふゅ
+qfm	ふぁー
+qfu	ふぃー
+qf,	ふゅー
+qf\	ふぇー
+qf.	ふぉー
 
 qgj	じゃ
 qgi	じ
@@ -214,7 +279,11 @@ qgl	じょ
 qgy	じゃ
 qgh	じゅ
 qgn	じょ
+qgm	じゃー
+qgu	じー
 qg,	じゅー
+qg\	じぇー
+qg.	じょー
 
 qcj	ちゃ
 qci	ち
@@ -224,7 +293,11 @@ qcl	ちょ
 qcy	ちゃ
 qch	ちゅ
 qcn	ちょ
+qcm	ちゃー
+qcu	ちー
 qc,	ちゅー
+qc\	ちぇー
+qc.	ちょー
 
 qvj	ヴぁ
 qvi	ヴぃ
@@ -233,6 +306,11 @@ qvo	ヴぇ
 qvl	ヴぉ
 qvh	びゅー
 qv,	びゅー
+qvm	ヴぁー
+qvu	ヴぃー
+qv,	びゅー
+qv\	ヴぇー
+qv.	ヴぉー
 
 z.	…
 z/	・
