@@ -39,11 +39,6 @@ fl	こ
 fy	きゃ
 fh	きゅ
 fn	きょ
-fm	かん
-fu	きん
-f,	くん
-f\	けん
-f.	こん
 
 sj	さ
 si	し
@@ -53,11 +48,6 @@ sl	そ
 sy	しゃ
 sh	しゅ
 sn	しょ
-sm	さん
-su	しん
-s,	すん
-s\	せん
-s.	そん
 
 dj	た
 di	ち
@@ -67,11 +57,6 @@ dl	と
 dy	ちゃ
 dh	ちゅ
 dn	ちょ
-dm	たん
-du	ちん
-d,	つん
-d\	てん
-d.	とん
 
 aj	な
 ai	に
@@ -81,11 +66,6 @@ al	の
 ay	にゃ
 ah	にゅ
 an	にょ
-am	なん
-au	にん
-a,	ぬん
-a\	ねん
-a.	のん
 
 gj	は
 gi	ひ
@@ -95,11 +75,6 @@ gl	ほ
 gy	ひゃ
 gh	ひゅ
 gn	ひょ
-gm	はん
-gu	ひん
-g,	ふん
-g\	へん
-g.	ほん
 
 zj	ま
 zi	み
@@ -109,11 +84,6 @@ zl	も
 zy	みゃ
 zh	みゅ
 zn	みょ
-zm	まん
-zu	みん
-z,	むん
-z\	めん
-z.	もん
 
 vj	ら
 vi	り
@@ -123,11 +93,6 @@ vl	ろ
 vy	りゃ
 vh	りゅ
 vn	りょ
-vm	らん
-vu	りん
-v,	るん
-v\	れん
-v.	ろん
 
 rj	が
 ri	ぎ
@@ -137,11 +102,6 @@ rl	ご
 ry	ぎゃ
 rh	ぎゅ
 rn	ぎょ
-rm	がん
-ru	ぎん
-r,	ぐん
-r\	げん
-r.	ごん
 
 wj	ざ
 wi	じ
@@ -151,11 +111,6 @@ wl	ぞ
 wy	じゃ
 wh	じゅ
 wn	じょ
-wm	ざん
-wu	じん
-w,	ずん
-w\	ぜん
-w.	ぞん
 
 ej	だ
 ei	でぃ
@@ -165,11 +120,6 @@ el	ど
 ey	ぢゃ
 eh	ぢゅ
 en	ぢょ
-em	だん
-eu	でぃん
-e,	づん
-e\	でん
-e.	どん
 
 bj	ば
 bi	び
@@ -179,11 +129,6 @@ bl	ぼ
 by	びゃ
 bh	びゅ
 bn	びょ
-bm	ばん
-bu	びん
-b,	ぶん
-b\	べん
-b.	ぼん
 
 tj	ぱ
 ti	ぴ
@@ -193,20 +138,12 @@ tl	ぽ
 ty	ぴゃ
 th	ぴゅ
 tn	ぴょ
-tm	ぱん
-tu	ぴん
-t,	ぷん
-t\	ぺん
-t.	ぽん
 
 xj	わ
 xi	うぃ
 xo	うぇ
 xl	を
 xm	わん
-xu	うぃん
-x\	うぇん
-x.	うぉん
 
 qj	ぁ
 qi	ぃ
@@ -217,23 +154,13 @@ qy	ゃ
 qh	ゅ
 qn	ょ
 q/	ゎ
-qm	あん
-qu	いん
-q,	うん
-q\	えん
-q.	おん
 
 qqi	くぃ
 qqo	くぇ
-qqu	くぃん
-qq\	くぇん
 
 qwi	うぃ
 qwo	うぇ
 qwl	うぉ
-qwu	うぃん
-qw\	うぇん
-qw.	うぉん
 
 qtj	つぁ
 qti	てぃ
@@ -243,11 +170,6 @@ qtl	つぉ
 qty	ちゃ
 qth	ちゅ
 qtn	ちょ
-qtm	つぁん
-qtu	てぃん
-qt,	とぅん
-qt\	つぇん
-qt.	つぉん
 
 qsj	しゃ
 qsi	し
@@ -257,29 +179,16 @@ qsl	しょ
 qsy	しゃ
 qsh	しゅ
 qsn	しょ
-qsm	しゃん
-qsu	しん
-qs,	しゅん
-qs\	しぇん
-qs.	しょん
 
 qdi	ぢ
 qdl	どぅ
 qdk	でゅ
-qdu	でぃん
-qd,	でゅん
-qd.	どぅん
 
 qfj	ふぁ
 qfi	ふぃ
 qfk	ふゅー
 qfo	ふぇ
 qfl	ふぉ
-qfm	ふぁん
-qfu	ふぃん
-qf,	ふん
-qf\	ふぇん
-qf.	ふぉん
 
 qgj	じゃ
 qgi	じ
@@ -289,11 +198,6 @@ qgl	じょ
 qgy	じゃ
 qgh	じゅ
 qgn	じょ
-qgm	じゃん
-qgu	じん
-qg,	じゅん
-qg\	じぇん
-qg.	じょん
 
 qcj	ちゃ
 qci	ち
@@ -303,11 +207,6 @@ qcl	ちょ
 qcy	ちゃ
 qch	ちゅ
 qcn	ちょ
-qcm	ちゃん
-qcu	ちん
-qc,	ちゅん
-qc\	ちぇん
-qc.	ちょん
 
 qvj	ヴぁ
 qvi	ヴぃ
@@ -315,11 +214,6 @@ qvk	ヴ
 qvo	ヴぇ
 qvl	ヴぉ
 qvh	びゅー
-qvm	ヴぁん
-qvu	ヴぃん
-qv,	ヴん
-qv\	ヴぇん
-qv.	ヴぉん
 
 z.	…
 z/	・
