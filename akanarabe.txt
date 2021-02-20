@@ -12,6 +12,7 @@ xx	っ	x
 cc	っ	c
 vv	っ	v
 bb	っ	b
+qq	っ	q
 
 j	あ
 i	い
@@ -123,7 +124,7 @@ w,	ずう
 
 ej	だ
 ei	でぃ
-ek	づ
+ek	どぅ
 eo	で
 el	ど
 ey	ぢゃ
@@ -166,9 +167,6 @@ qy	ゃ
 qh	ゅ
 qn	ょ
 
-qqi	くぃ
-qqo	くぇ
-
 qwi	うぃ
 qwo	うぇ
 qwl	うぉ
@@ -181,6 +179,7 @@ qtl	つぉ
 qty	ちゃ
 qth	ちゅ
 qtn	ちょ
+qt,	とぅー
 
 qsj	しゃ
 qsi	し
@@ -190,16 +189,22 @@ qsl	しょ
 qsy	しゃ
 qsh	しゅ
 qsn	しょ
+qs,	しゅー
 
 qdi	ぢ
-qdl	どぅ
+qdl	づ
 qdk	ぢゅ
+qdy	ぢゃ
+qdh	ぢゅ
+qdn	ぢょ
+qd,	どぅー
 
 qfj	ふぁ
 qfi	ふぃ
 qfk	ふゅー
 qfo	ふぇ
 qfl	ふぉ
+qfh	ふゅ
 
 qgj	じゃ
 qgi	じ
@@ -209,6 +214,7 @@ qgl	じょ
 qgy	じゃ
 qgh	じゅ
 qgn	じょ
+qg,	じゅー
 
 qcj	ちゃ
 qci	ち
@@ -218,6 +224,7 @@ qcl	ちょ
 qcy	ちゃ
 qch	ちゅ
 qcn	ちょ
+qc,	ちゅー
 
 qvj	ヴぁ
 qvi	ヴぃ
@@ -225,6 +232,7 @@ qvk	ヴ
 qvo	ヴぇ
 qvl	ヴぉ
 qvh	びゅー
+qv,	びゅー
 
 z.	…
 z/	・
