@@ -295,20 +295,6 @@ qg,	じゅん
 qg\	じぇん
 qg.	じょん
 
-qxj	しゃ
-qxi	し
-qxk	しゅ
-qxo	しぇ
-qxl	しょ
-qxy	しゃ
-qxh	しゅ
-qxn	しょ
-qxm	しゃん
-qxu	しん
-qx,	しゅん
-qx\	しぇん
-qx.	しょん
-
 qcj	ちゃ
 qci	ち
 qck	ちゅ
