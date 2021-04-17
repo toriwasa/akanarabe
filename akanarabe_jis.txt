@@ -1,0 +1,329 @@
+ww	っ	w
+ee	っ	e
+rr	っ	r
+tt	っ	t
+aa	っ	a
+ss	っ	s
+dd	っ	d
+ff	っ	f
+gg	っ	g
+zz	っ	z
+xx	っ	x
+cc	っ	c
+vv	っ	v
+bb	っ	b
+qq	っ	q
+
+j	あ
+i	い
+k	う
+o	え
+l	お
+y	や
+h	ゆ
+n	よ
+;	ん
+u	っ
+,	、
+.	。
+m	ー
+/	ー
+-	ー
+`	…
+z.	…
+c/	・
+\	・
+
+fj	か
+fi	き
+fk	く
+fo	け
+fl	こ
+fy	きゃ
+fh	きゅ
+fn	きょ
+fm	かー
+fu	きー
+f,	くー
+f;	けー
+f/	こー
+
+sj	さ
+si	し
+sk	す
+so	せ
+sl	そ
+sy	しゃ
+sh	しゅ
+sn	しょ
+sm	さー
+su	しー
+s,	すー
+s;	せー
+s/	そー
+
+dj	た
+di	ち
+dk	つ
+do	て
+dl	と
+dy	ちゃ
+dh	ちゅ
+dn	ちょ
+dm	たー
+du	ちー
+d,	つー
+d;	てー
+d/	とー
+
+aj	な
+ai	に
+ak	ぬ
+ao	ね
+al	の
+ay	にゃ
+ah	にゅ
+an	にょ
+am	なー
+au	にー
+a,	ぬー
+a;	ねー
+a/	のー
+
+gj	は
+gi	ひ
+gk	ふ
+go	へ
+gl	ほ
+gy	ひゃ
+gh	ひゅ
+gn	ひょ
+g,	ふう
+gm	はー
+gu	ひー
+g,	ふー
+g;	へー
+g/	ほー
+
+zj	ま
+zi	み
+zk	む
+zo	め
+zl	も
+zy	みゃ
+zh	みゅ
+zn	みょ
+zm	まー
+zu	みー
+z,	むー
+z;	めー
+z/	もー
+
+vj	ら
+vi	り
+vk	る
+vo	れ
+vl	ろ
+vy	りゃ
+vh	りゅ
+vn	りょ
+vm	らー
+vu	りー
+v,	るー
+v;	れー
+v/	ろー
+
+rj	が
+ri	ぎ
+rk	ぐ
+ro	げ
+rl	ご
+ry	ぎゃ
+rh	ぎゅ
+rn	ぎょ
+rm	がー
+ru	ぎー
+r,	ぐー
+r;	げー
+r/	ごー
+
+wj	ざ
+wi	じ
+wk	ず
+wo	ぜ
+wl	ぞ
+wy	じゃ
+wh	じゅ
+wn	じょ
+wm	ざー
+wu	じー
+w,	ずー
+w;	ぜー
+w/	ぞー
+
+ej	だ
+ei	でぃ
+ek	づ
+eo	で
+el	ど
+ey	ぢゃ
+eh	でゅ
+en	ぢょ
+em	だー
+eu	でぃー
+e,	どぅ
+e;	でー
+e/	どー
+
+bj	ば
+bi	び
+bk	ぶ
+bo	べ
+bl	ぼ
+by	びゃ
+bh	びゅ
+bn	びょ
+bm	ばー
+bu	びー
+b,	ぶー
+b;	べー
+b/	ぼー
+
+tj	ぱ
+ti	ぴ
+tk	ぷ
+to	ぺ
+tl	ぽ
+ty	ぴゃ
+th	ぴゅ
+tn	ぴょ
+tm	ぱー
+tu	ぴー
+t,	ぷー
+t;	ぺー
+t/	ぽー
+
+xj	わ
+xi	うぃ
+xo	うぇ
+xl	を
+xm	わー
+xu	うぃー
+x;	うぇー
+x/	うぉー
+
+qj	ぁ
+qi	ぃ
+qk	ぅ
+qo	ぇ
+ql	ぉ
+qy	ゃ
+qh	ゅ
+qn	ょ
+
+qwi	うぃ
+qwo	うぇ
+qwl	うぉ
+
+qtj	つぁ
+qti	てぃ
+qtk	とぅ
+qto	つぇ
+qtl	つぉ
+qty	ちゃ
+qth	ちゅ
+qtn	ちょ
+qtm	つぁー
+qtu	てぃー
+qt,	とぅー
+qt;	つぇー
+qt/	つぉー
+
+qsj	しゃ
+qsi	し
+qsk	しゅ
+qso	しぇ
+qsl	しょ
+qsy	しゃ
+qsh	しゅ
+qsn	しょ
+qsm	しゃー
+qsu	しー
+qs,	しゅー
+qs;	しぇー
+qs/	しょー
+
+qdi	ぢ
+qdk	どぅ
+qdy	ぢゃ
+qdh	ぢゅ
+qdn	ぢょ
+qdu	ぢー
+qd,	どぅー
+
+qfj	ふぁ
+qfi	ふぃ
+qfk	ふゅー
+qfo	ふぇ
+qfl	ふぉ
+qfh	ふゅ
+qfm	ふぁー
+qfu	ふぃー
+qf,	ふゅー
+qf;	ふぇー
+qf/	ふぉー
+
+qgj	じゃ
+qgi	じ
+qgk	じゅ
+qgo	じぇ
+qgl	じょ
+qgy	じゃ
+qgh	じゅ
+qgn	じょ
+qgm	じゃー
+qgu	じー
+qg,	じゅー
+qg;	じぇー
+qg/	じょー
+
+qcj	ちゃ
+qci	ち
+qck	ちゅ
+qco	ちぇ
+qcl	ちょ
+qcy	ちゃ
+qch	ちゅ
+qcn	ちょ
+qcm	ちゃー
+qcu	ちー
+qc,	ちゅー
+qc;	ちぇー
+qc/	ちょー
+
+qvj	ヴぁ
+qvi	ヴぃ
+qvk	ヴ
+qvo	ヴぇ
+qvl	ヴぉ
+qvh	びゅー
+qv,	びゅー
+qvm	ヴぁー
+qvu	ヴぃー
+qv,	びゅー
+qv;	ヴぇー
+qv/	ヴぉー
+
+sd	して
+sa	した
+fd	こと
+sv	する
+fv	から
+zs	ます
+es	です
+gd	ひと
+fz	かも
+ea	での
+ez	でも
+av	なる
+zv	まる
