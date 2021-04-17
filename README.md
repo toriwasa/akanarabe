@@ -182,7 +182,7 @@ qtn | ☆T+yo | ちょ
 qtm | ☆T+a- | つぁー
 qtu | ☆T+i- | てぃー
 qt, | ☆T+u- | とぅー
-qt\ | ☆T+e- | つぇー
+qt; | ☆T+e- | つぇー
 qt/ | ☆T+o- | つぉー
 qsj | ☆S+a | しゃ
 qsi | ☆S+i | し
@@ -195,7 +195,7 @@ qsn | ☆S+yo | しょ
 qsm | ☆S+a- | しゃー
 qsu | ☆S+i- | しー
 qs, | ☆S+u- | しゅー
-qs\ | ☆S+e- | しぇー
+qs; | ☆S+e- | しぇー
 qs/ | ☆S+o- | しょー
 qdi | ☆D+i | ぢ
 qdk | ☆D+u | どぅ
@@ -213,7 +213,7 @@ qfh | ☆F+yu | ふゅ
 qfm | ☆F+a- | ふぁー
 qfu | ☆F+i- | ふぃー
 qf, | ☆F+u- | ふゅー
-qf\ | ☆F+e- | ふぇー
+qf; | ☆F+e- | ふぇー
 qf/ | ☆F+o- | ふぉー
 qgj | ☆J+a | じゃ
 qgi | ☆J+i | じ
@@ -226,7 +226,7 @@ qgn | ☆J+yo | じょ
 qgm | ☆J+a- | じゃー
 qgu | ☆J+i- | じー
 qg, | ☆J+u- | じゅー
-qg\ | ☆J+e- | じぇー
+qg; | ☆J+e- | じぇー
 qg/ | ☆J+o- | じょー
 qcj | ☆C+a | ちゃ
 qci | ☆C+i | ち
@@ -239,7 +239,7 @@ qcn | ☆C+yo | ちょ
 qcm | ☆C+a- | ちゃー
 qcu | ☆C+i- | ちー
 qc, | ☆C+u- | ちゅー
-qc\ | ☆C+e- | ちぇー
+qc; | ☆C+e- | ちぇー
 qc/ | ☆C+o- | ちょー
 qvj | ☆V+a | ヴぁ
 qvi | ☆V+i | ヴぃ
@@ -251,5 +251,5 @@ qv, | ☆V+u | びゅー
 qvm | ☆V+a- | ヴぁー
 qvu | ☆V+i- | ヴぃー
 qv, | ☆V+u- | びゅー
-qv\ | ☆V+e- | ヴぇー
+qv; | ☆V+e- | ヴぇー
 qv/ | ☆V+o- | ヴぉー
