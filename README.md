@@ -196,7 +196,7 @@ atk | ☆T+u | とぅ
 ato | ☆T+e | つぇ
 atl | ☆T+o | つぉ
 aty | ☆T+ya | ちゃ
-ath | ☆T+yu | ちゅ
+ath | ☆T+yu | てゅ
 atn | ☆T+yo | ちょ
 atm | ☆T+a- | つぁー
 atu | ☆T+i- | てぃー
