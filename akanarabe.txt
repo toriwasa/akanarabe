@@ -23,7 +23,7 @@ y	や
 h	ゆ
 n	よ
 \	ん
-m	っ
+m	ー
 ,	、
 .	。
 /	ー
@@ -207,18 +207,18 @@ xu	うぃー
 x\	うぇー
 x/	うぉー
 
-qj	ぁ
-qi	ぃ
-qk	ぅ
-qo	ぇ
-ql	ぉ
-qy	ゃ
-qh	ゅ
-qn	ょ
-qu	っ
-q/	・
-q,	,
-q.	.
+cj	ぁ
+ci	ぃ
+ck	ぅ
+co	ぇ
+cl	ぉ
+cy	ゃ
+ch	ゅ
+cn	ょ
+cu	っ
+c/	・
+c,	,
+c.	.
 
 awi	うぃ
 awo	うぇ
