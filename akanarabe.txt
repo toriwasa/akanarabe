@@ -215,7 +215,7 @@ cl	ぉ
 cy	ゃ
 ch	ゅ
 cn	ょ
-cu	っ
+cm	っ
 c/	・
 c,	,
 c.	.
