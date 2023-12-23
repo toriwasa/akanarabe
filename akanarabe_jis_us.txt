@@ -23,10 +23,11 @@ y	や
 h	ゆ
 n	よ
 ;	ん
-m	ー
+m	っ
 ,	、
 .	。
 /	ー
+p	ー
 -	ー
 z.	…
 
@@ -41,8 +42,8 @@ fn	きょ
 fm	かー
 fu	きー
 f,	くー
-f;	けー
-f/	こー
+fp	けー
+f;	こー
 
 sj	さ
 si	し
@@ -55,8 +56,8 @@ sn	しょ
 sm	さー
 su	しー
 s,	すー
-s;	せー
-s/	そー
+sp	せー
+s;	そー
 
 dj	た
 di	ち
@@ -69,8 +70,8 @@ dn	ちょ
 dm	たー
 du	ちー
 d,	つー
-d;	てー
-d/	とー
+dp	てー
+d;	とー
 
 aj	な
 ai	に
@@ -83,8 +84,8 @@ an	にょ
 am	なー
 au	にー
 a,	ぬー
-a;	ねー
-a/	のー
+ap	ねー
+a;	のー
 
 gj	は
 gi	ひ
@@ -98,8 +99,8 @@ g,	ふう
 gm	はー
 gu	ひー
 g,	ふー
-g;	へー
-g/	ほー
+gp	へー
+g;	ほー
 
 zj	ま
 zi	み
@@ -112,8 +113,8 @@ zn	みょ
 zm	まー
 zu	みー
 z,	むー
-z;	めー
-z/	もー
+zp	めー
+z;	もー
 
 vj	ら
 vi	り
@@ -126,8 +127,8 @@ vn	りょ
 vm	らー
 vu	りー
 v,	るー
-v;	れー
-v/	ろー
+vp	れー
+v;	ろー
 
 rj	が
 ri	ぎ
@@ -140,8 +141,8 @@ rn	ぎょ
 rm	がー
 ru	ぎー
 r,	ぐー
-r;	げー
-r/	ごー
+rp	げー
+r;	ごー
 
 wj	ざ
 wi	じ
@@ -154,8 +155,8 @@ wn	じょ
 wm	ざー
 wu	じー
 w,	ずー
-w;	ぜー
-w/	ぞー
+wp	ぜー
+w;	ぞー
 
 ej	だ
 ei	でぃ
@@ -168,8 +169,8 @@ en	ぢょ
 em	だー
 eu	でぃー
 e,	どぅ
-e;	でー
-e/	どー
+ep	でー
+e;	どー
 
 bj	ば
 bi	び
@@ -182,8 +183,8 @@ bn	びょ
 bm	ばー
 bu	びー
 b,	ぶー
-b;	べー
-b/	ぼー
+bp	べー
+b;	ぼー
 
 tj	ぱ
 ti	ぴ
@@ -196,8 +197,8 @@ tn	ぴょ
 tm	ぱー
 tu	ぴー
 t,	ぷー
-t;	ぺー
-t/	ぽー
+tp	ぺー
+t;	ぽー
 
 xj	わ
 xi	うぃ
@@ -205,20 +206,20 @@ xo	うぇ
 xl	を
 xm	わー
 xu	うぃー
-x;	うぇー
-x/	うぉー
+xp	うぇー
+x;	うぉー
 
-qj	ぁ
-qi	ぃ
-qk	ぅ
-qo	ぇ
-ql	ぉ
-qy	ゃ
-qh	ゅ
-qn	ょ
-qu	っ
-q/	・
-q.	…
+cj	ぁ
+ci	ぃ
+ck	ぅ
+co	ぇ
+cl	ぉ
+cy	ゃ
+ch	ゅ
+cn	ょ
+cu	っ
+c/	・
+c.	…
 
 awi	うぃ
 awo	うぇ
@@ -235,8 +236,8 @@ atn	ちょ
 atm	つぁー
 atu	てぃー
 at,	とぅー
-at;	つぇー
-at/	つぉー
+atp	つぇー
+at;	つぉー
 
 asj	しゃ
 asi	し
@@ -249,8 +250,8 @@ asn	しょ
 asm	しゃー
 asu	しー
 as,	しゅー
-as;	しぇー
-as/	しょー
+asp	しぇー
+as;	しょー
 
 adi	ぢ
 adk	どぅ
@@ -269,8 +270,8 @@ afh	ふゅ
 afm	ふぁー
 afu	ふぃー
 af,	ふゅー
-af;	ふぇー
-af/	ふぉー
+afp	ふぇー
+af;	ふぉー
 
 agj	じゃ
 agi	じ
@@ -283,8 +284,8 @@ agn	じょ
 agm	じゃー
 agu	じー
 ag,	じゅー
-ag;	じぇー
-ag/	じょー
+agp	じぇー
+ag;	じょー
 
 acj	ちゃ
 aci	ち
@@ -297,8 +298,8 @@ acn	ちょ
 acm	ちゃー
 acu	ちー
 ac,	ちゅー
-ac;	ちぇー
-ac/	ちょー
+acp	ちぇー
+ac;	ちょー
 
 avj	ヴぁ
 avi	ヴぃ
@@ -310,5 +311,5 @@ av,	びゅー
 avm	ヴぁー
 avu	ヴぃー
 av,	びゅー
-av;	ヴぇー
-av/	ヴぉー
+avp	ヴぇー
+av;	ヴぉー
