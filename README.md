@@ -286,3 +286,15 @@ avu | ☆V+i- | ヴぃー
 av, | ☆V+u- | びゅー
 avp | ☆V+e- | ヴぇー
 av; | ☆V+o- | ヴぉー
+
+## ライセンス
+このリポジトリの配列の設計、ローマ字テーブルファイル、文書は [クリエイティブ・コモンズ 表示 4.0 国際 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja) の下で提供しています。
+
+改変・再配布は自由に行っていただいて構いません。その際は以下のように元の作者名と元リポジトリのURLを表示し、改変した場合はその旨を記載してください。
+
+```
+あかならべ配列 by toriwasa (https://github.com/toriwasa/akanarabe)
+CC BY 4.0 / 改変あり
+```
+
+詳細は [LICENSE](LICENSE) をご覧ください。
